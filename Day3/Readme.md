@@ -1,9 +1,9 @@
 
 
 
-# 🌟 Glow by Beauty - E-Commerce Marketplace  
+# 🌟 Glow up Beauty - E-Commerce Marketplace  
 
-Welcome to the **Glow by Beauty** repository! This project is a dynamic and fully functional e-commerce platform designed for purchasing beauty products, built with modern web practices and a focus on user experience and scalability.
+Welcome to the **Glow up Beauty** repository! This project is a dynamic and fully functional e-commerce platform designed for purchasing beauty products, built with modern web practices and a focus on user experience and scalability.
 
 ---
 
